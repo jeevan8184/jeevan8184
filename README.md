@@ -15,7 +15,7 @@
 - 🎓 B.E. in Artificial Intelligence & Machine Learning
 - 🤖 Passionate about **Agentic AI, LLMs, RAG, and AI-powered Applications**
 - 💻 Full-Stack Developer specializing in **MERN & Next.js**
-- 🧠 Strong problem-solving skills with **500+ DSA problems solved**
+- 🧠 Strong problem-solving skills with **700+ DSA problems solved**
 - 🌱 Currently learning **Advanced Agentic AI & System Design**
 - 🎯 Goal: Build intelligent software that solves real-world problems.
 
