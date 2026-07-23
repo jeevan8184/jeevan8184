@@ -44,7 +44,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
 </p>
 
 ### Frontend
@@ -85,7 +85,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase"/>
 </p>
 
 ---
