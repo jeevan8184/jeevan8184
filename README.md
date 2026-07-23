@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Full+Stack+Developer;Agentic+AI+%7C+LLMs+%7C+RAG;Java+%7C+Python+%7C+MERN;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Full+Stack+Developer;Agentic+AI+%7C+LLMs+%7C+RAG;Java+%7C+Python+%7C+MERN;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 ---
